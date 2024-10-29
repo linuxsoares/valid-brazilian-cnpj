@@ -1,4 +1,4 @@
-![Build Status](https://github.com/linuxsoares/valid-brazilian-cnpj/actions/workflows/workflow-file.yml/badge.svg?branch=main)
+![](https://github.com/linuxsoares/valid-brazilian-cnpj/actions/workflows/go.yml/badge.svg?branch=main)
 
 
 # ValidCNPJ Function
