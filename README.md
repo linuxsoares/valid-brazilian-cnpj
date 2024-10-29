@@ -1,4 +1,4 @@
-![example workflow](https://github.com/linuxsoares/repository/actions/workflows/workflow-file.yml/badge.svg)
+![Build Status](https://github.com/username/repository/actions/workflows/workflow-file.yml/badge.svg?branch=main)
 
 
 # ValidCNPJ Function
