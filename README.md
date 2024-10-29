@@ -1,3 +1,6 @@
+![example workflow](https://github.com/linuxsoares/repository/actions/workflows/workflow-file.yml/badge.svg)
+
+
 # ValidCNPJ Function
 
 This project contains a Go implementation of the `ValidCNPJ` function, which validates Brazilian CNPJ numbers. CNPJ (Cadastro Nacional da Pessoa Jurídica) is a unique identifier issued to Brazilian companies, similar to a business tax ID number in other countries. The function is designed to determine whether a given CNPJ is valid, regardless of whether it contains formatting characters such as dots, dashes, or slashes.
